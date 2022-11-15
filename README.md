@@ -3,7 +3,7 @@ Gồm có **BFD, CDM, PDM, ảnh Activity diagram, ảnh giao diện, ảnh Use 
 </br>
 LINK VIDEO THUYẾT TRÌNH: 
 **https://drive.google.com/drive/folders/1i7F1U5zka5dCg-nbQrLkYXiGrcUHm3yS?usp=sharing**
-<h2>Thành viên công tác website</h2>
+<h2>Thành viên công tác bài làm</h2>
 
 <table style="width:100%">
   <tr>
