@@ -9,19 +9,14 @@ LINK VIDEO THUYẾT TRÌNH:
   <tr>
     <th>Họ và tên</th>
     <th>MSSV</th>
-    <th>Chức năng</th>
+    <th>Báo cáo cuối kì</th>
   </tr>
   <tr>
     <td>Phan Ngọc Tánh</td>
     <td>46.01.104.163</td>
-    <td>PHP</td>
+    <td>học kì 2</td>
   </tr>
-
- 
 </table>
-
-
-
 </body>
 </html>
 
