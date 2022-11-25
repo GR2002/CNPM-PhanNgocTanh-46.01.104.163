@@ -10,11 +10,13 @@
     <th>Họ và tên</th>
     <th>MSSV</th>
     <th>Báo cáo cuối kì</th>
+    <th>Ngày</th>
   </tr>
   <tr>
     <td>Phan Ngọc Tánh</td>
     <td>46.01.104.163</td>
     <td>học kì 2</td>
+    <td>7-6-2022</td>
   </tr>
 </table>
 </body>
