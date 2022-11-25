@@ -15,7 +15,7 @@
   <tr>
     <td>Phan Ngọc Tánh</td>
     <td>46.01.104.163</td>
-    <td>học kì 2</td>
+    <td>học kì 2 (năm 2021-2022)</td>
     <td>7-6-2022</td>
   </tr>
 </table>
